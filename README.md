@@ -7,7 +7,7 @@ This repo has Python projects I worked on in my first computer science class at 
 - [Vending Machine](josue_benz_food.py) – lets a user pick items, calculates totals, and gives change  
 - [Password Program](josue_benz_password.py) – checks and updates passwords using string operations  
 - [Number Guessing Game](josue_benz_my_number.py) – user tries to guess the random number  
-- [Speeding Ticket Calculator](josue_benz_speeding.py) – tells the fine based on how fast you were going  
+- [Speeding Ticket Calculator](Josue_benz_speeding.py) – tells the fine based on how fast you were going  
 - [Step Counter](josue_benz_step_counter.py) – converts steps into distance  
 - [Calories Calculator](josue_benz_calories.py) – simple calorie tracker  
 
